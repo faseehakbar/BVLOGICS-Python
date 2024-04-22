@@ -1,0 +1,15 @@
+Income: 568890.89
+Expenses:
+Budgets:
+Investments:
+Income: 89900000.0
+Expenses:
+Budgets:
+Investments:
+Income: 0
+Expenses:
+Date: 2024-04-19 11:10:11, Category: food, Amount: 234.0, Description: food material
+Date: 2024-04-19 11:10:48, Category: food, Amount: 3422.0, Description: dswdsd mdwed
+Date: 2024-04-19 11:11:59, Category: food, Amount: 2300.0, Description: food material
+Budgets:
+Investments:

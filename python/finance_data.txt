@@ -1,0 +1,7 @@
+Income: 200000.0
+Expenses:
+Date: 2024-04-18 09:22:33, Category: utilities, Amount: 30000.0, Description: home material
+Budgets:
+utilities, 30000.0
+Investments:
+2024-04-18 09:24:19, house, 5000000.0, property
